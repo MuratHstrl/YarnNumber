@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">İplik Numarası Hesaplama</string>
+    <string name="title_converter">Dönüştürücü</string>
+    <string name="title_calculator">Hesaplama</string>
+    <string name="title_contact">İletişim</string>
+
+    <string name="calculator_type">TİP</string>
+    <string name="calculator_yarn_count">İP SAYISI</string>
+    <string name="calculator_yarn_no_1">İP NO 1</string>
+    <string name="calculator_yarn_no_2">İP NO 2</string>
+    <string name="calculator_yarn_no_3">İP NO 3</string>
+    <string name="calculator_yarn_no_4">İP NO 4</string>
+    <string name="calculator_yarn_no_5">İP NO 5</string>
+    <string name="calculator_yarn_no_6">İP NO 6</string>
+    <string name="calculator_calculate">HESAPLA</string>
+    <string name="converter_lenght">Uzunluk</string>
+    <string name="converter_meter">metre</string>
+    <string name="converter_weight">Ağırlık</string>
+    <string name="converter_gram">gram</string>
+
+    <string name="contact_phone">TELEFON(+90)</string>
+    <string name="contact_fax">FAX</string>
+    <string name="contact_email">EMAIL</string>
+    <string name="contact_phone_number">02126710258</string>
+    <string name="contact_fax_number">02126710259</string>
+    <string name="contact_email_string">info@pro-ser.com</string>
+    <string name="contact_website">www.pro-ser.com</string>
+</resources>

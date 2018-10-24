@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Yarn Number Calculator</string>
+    <string name="title_converter">Converter</string>
+    <string name="title_calculator">Calculator</string>
+    <string name="title_contact">Contact Us</string>
+
+    <string name="calculator_type">TYPE</string>
+    <string name="calculator_yarn_count">YARN COUNT</string>
+    <string name="calculator_yarn_no_1">YARN NO 1</string>
+    <string name="calculator_yarn_no_2">YARN NO 2</string>
+    <string name="calculator_yarn_no_3">YARN NO 3</string>
+    <string name="calculator_yarn_no_4">YARN NO 4</string>
+    <string name="calculator_yarn_no_5">YARN NO 5</string>
+    <string name="calculator_yarn_no_6">YARN NO 6</string>
+    <string name="calculator_calculate">CALCULATE</string>
+    <string name="converter_lenght">Lenght</string>
+    <string name="converter_meter">meter</string>
+    <string name="converter_weight">Weight</string>
+    <string name="converter_gram">gram</string>
+
+    <string name="contact_phone">Phone(+90)</string>
+    <string name="contact_fax">FAX</string>
+    <string name="contact_email">EMAIL</string>
+    <string name="contact_phone_number">00902126710258</string>
+    <string name="contact_fax_number">00902126710259</string>
+    <string name="contact_email_string">info@pro-ser.com</string>
+    <string name="contact_website">www.prowhite.eu</string>
+
+</resources>
